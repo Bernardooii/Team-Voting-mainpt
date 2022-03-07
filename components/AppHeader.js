@@ -5,7 +5,7 @@ export default class AppHeader extends React.Component{
   render(){
     return(
       <View style= {styles.textContainer}>
-        <Text style={styles.text}>App Votação da Equipe</Text>
+        <Text style={styles.text}> -- App votação do time -- </Text>
       </View>
     );
   }
